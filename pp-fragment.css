@@ -1,0 +1,68 @@
+
+/* ===== PP Fragment SANS ===== */
+@font-face {
+  font-family: 'PP Fragment Sans';
+  src: url('./Fontes/PPFragment-SansLight.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Fragment Sans';
+  src: url('./Fontes/PPFragment-SansRegular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Fragment Sans';
+  src: url('./Fontes/PPFragment-SansExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* ===== PP Fragment SERIF ===== */
+@font-face {
+  font-family: 'PP Fragment Serif';
+  src: url('./Fontes/PPFragment-SerifLight.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Fragment Serif';
+  src: url('./Fontes/PPFragment-SerifRegular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Fragment Serif';
+  src: url('./Fontes/PPFragment-SerifExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* ===== PP Fragment GLARE ===== */
+@font-face {
+  font-family: 'PP Fragment Glare';
+  src: url('./Fontes/PPFragment-GlareLight.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Fragment Glare';
+  src: url('./Fontes/PPFragment-GlareRegular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Fragment Glare';
+  src: url('./Fontes/PPFragment-GlareExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* ===== PP Fragment TEXT ===== */
+@font-face {
+  font-family: 'PP Fragment Text';
+  src: url('./Fontes/PPFragment-TextRegular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
